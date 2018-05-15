@@ -1,3 +1,0 @@
-'Violation.type' : ["SPEEDING", "RED LIGHT", "PARKING", "DRINKING", "CELL PHONE"]
-'Violation.state' : ["OPEN", "CLOSED"]
-'ViolationRecourse.type' : ["FINE", "SUSPENSION", "RETRAINING COURSE", "REINSTATEMENT FEE"]
